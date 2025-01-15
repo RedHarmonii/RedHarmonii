@@ -3,7 +3,7 @@
   double bachelor in Mathametics and Computer Science.
 - 🌱 I've worked as a Data Structures Tutor for 2 years at UNLV and I'm US Marine Corps Veteran.
 - 📫 How to reach me: sauravk60@outlook.com
-- Resume: [https://github.com/RedHarmonii/resume/blob/main/Resume_SK.pdf](https://github.com/RedHarmonii/resume/blob/main/My%20Resume.pdf)
+- Resume: https://github.com/RedHarmonii/resume/blob/main/My%20Resume.pdf
 <!---
 RedHarmonii/RedHarmonii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
